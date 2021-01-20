@@ -11,6 +11,22 @@ h2{
   text-align: center;
 }
 
+.col-lg-4{
+  background-color: rgb(163, 142, 184);
+}
+.col-md-6{
+  background-color: rgb(163, 142, 184);
+}
+.col-sm-12{
+  background-color: rgb(163, 142, 184);
+}
+
+p{
+  background-color: rgb(163, 142, 184);
+  padding-left: 7px;
+  padding-right: 7px;
+  text-align: center;
+}
 
 
 section{
@@ -30,6 +46,7 @@ row.div{
 
   margin:10px;
 }
+
 
 /*
 p {
